@@ -133,7 +133,7 @@ while True:
 a) Generative AI declaration:
    Our team used Claude (Anthropic) as a coding aid. We reviewed and tested all code.
 
-b) How I would improve the app:
+b) How we would improve the app:
    - Name the drink on the receipt (e.g., "2 - Diet Coke") instead of only the
      item number, by storing the drinks in a dictionary of {option: (name, price)}.
      This would also replace the if/elif block and make adding new drinks easier.
