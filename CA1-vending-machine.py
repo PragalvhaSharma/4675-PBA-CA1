@@ -1,3 +1,8 @@
+# BUSI 4675 Programming for Business Applications, HBA2 Fall 2026
+# Professor: Yi (Zoe) Zou
+# Coding Assignment 1, Part 1 - Coca-Cola Touchless Vending Machine App
+# Team: Jeffrey Liu, Jibbe Hamers, Pragalvha Sharma
+
 # Below an ASCII art of a Coca-Cola vending machine
 # Triple quotes (""") or (''') in Python allow you to write strings that span multiple lines.
 vending_machine = """
@@ -126,11 +131,7 @@ while True:
 # TODO 6 Final comments
 """
 a) Generative AI declaration:
-   I used a generative AI tool (Claude, by Anthropic) to help complete the TODO
-   sections of this script. I reviewed every line, ran the program myself, and
-   tested each path of the flow chart (all four drinks, invalid menu and quantity
-   inputs, confirming a payment and cancelling a payment). I am responsible for
-   the final code.
+   Our team used Claude (Anthropic) as a coding aid. We reviewed and tested all code.
 
 b) How I would improve the app:
    - Name the drink on the receipt (e.g., "2 - Diet Coke") instead of only the

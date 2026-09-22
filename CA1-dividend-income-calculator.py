@@ -1,3 +1,8 @@
+# BUSI 4675 Programming for Business Applications, HBA2 Fall 2026
+# Professor: Yi (Zoe) Zou
+# Coding Assignment 1, Part 2 - Dividend Income Calculator App
+# Team: Jeffrey Liu, Jibbe Hamers, Pragalvha Sharma
+
 robo_advisor = r'''
        ______
       /      \
@@ -108,11 +113,7 @@ while True:
 
 """
 a) Generative AI declaration:
-   I used a generative AI tool (Claude, by Anthropic) to help complete the TODO
-   sections of this script. I reviewed every line, ran the program myself, and
-   checked the results by hand. Example: 100 shares at $50, $0.50 dividend paid
-   quarterly gives $200.00 a year without reinvestment and $203.02 with
-   reinvestment. I am responsible for the final code.
+   Our team used Claude (Anthropic) as a coding aid. We reviewed and tested all code.
 
 b) How this script could be applied and extended to other financial advisory services:
    - Portfolio view: let the user enter several stocks in one session and show
